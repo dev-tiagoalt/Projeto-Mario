@@ -225,4 +225,43 @@ textarea {
 
 
     }
+.mario-luigi{
+height: auto;
+margin-top: 15px;
+
+
+
+}
+.fale{
+margin-top: 70px;
+
+
+
+}
+h1{
+font-size: 25px;
+margin-right: 50%;
+align-items: center;
+
+
+}
+.link-watsapp{
+margin-bottom: 60px;
+margin-right: 280px;
+
+
+
+
+
+}
+    video {
+        position: absolute; /*  absolute ou fixed */
+        width: 100%;
+        z-index:;
+        height: 100%;
+        left: 0px;
+        top: 0px;
+      }
+
+
 }
