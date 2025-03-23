@@ -23,7 +23,7 @@ img {
 }
 
 .mario-luigi {
-    height: 500px;
+    height: 200px;
 }
 
 .mascara {
@@ -196,11 +196,21 @@ textarea {
 
     }
 
-    .mario-luigi {
-        width: 80vw;
-        height: auto;
+   
+        .mario-png{
+width: auto;
+padding-top: 15px;
 
-    }
+
+
+
+        }
+
+
+
+
+
+    
 
     .header {
         margin: 10px;
