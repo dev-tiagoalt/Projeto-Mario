@@ -22,9 +22,7 @@ img {
     height: 180px
 }
 
-.mario-luigi {
-    height: 200px;
-}
+
 
 .mascara {
     height: 100%;
@@ -82,6 +80,12 @@ body {
 
 .caixa-principal {
     width: 40%;
+
+}
+.mario-png{
+width: 350px;
+height: auto;
+
 
 }
 
