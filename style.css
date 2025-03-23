@@ -202,7 +202,7 @@ textarea {
 
    
         .mario-png{
-width: auto;
+width: 170px;
 padding-top: 15px;
 
 
@@ -257,6 +257,88 @@ width: 50px;
 height: 50px;
 
 }
+
+
+}
+@media(max-width:800px) {
+    p {
+        display: none;
+    }
+
+    .caixa-mae {
+        flex-direction: column;
+        padding: 10px;
+
+
+
+    }
+
+    .caixa-principal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+   
+        .mario-png{
+width: 170px;
+padding-top: 15px;
+
+
+
+
+        }
+
+
+
+
+
+    
+
+    .header {
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+
+    }
+
+
+    .header img {
+        display: none;
+
+
+
+    }
+
+    .header a {
+        font-size: 20px;
+
+
+    }
+
+.fale{
+margin-top: 70px;
+
+
+
+}
+h1{
+font-size: 25px;
+margin-right: 50%;
+align-items: center;
+
+
+}
+.link-watsapp{
+width: 50px;
+height: 50px;
+
+}
+
+
 
 
 }
